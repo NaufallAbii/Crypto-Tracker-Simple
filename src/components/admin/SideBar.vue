@@ -21,7 +21,7 @@
       <RouterLink to="/chart" class="block">
         <li class="p-2 hover:bg-gray-700 cursor-pointer">Chart</li>
       </RouterLink>
-      <RouterLink to="/settings" class="block">
+      <RouterLink to="/admin" class="block">
         <li class="p-2 hover:bg-gray-700 cursor-pointer">Settings</li>
       </RouterLink>
         </ul>
